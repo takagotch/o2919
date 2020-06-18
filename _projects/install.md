@@ -40,5 +40,3 @@ There's two data files that help create elements of the web site.
 
 
 
-
-
